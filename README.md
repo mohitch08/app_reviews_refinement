@@ -1,7 +1,9 @@
 # app_reviews_refinement
-# This directory contains the Benchmark RARE Dataset and Code File as described in the paper:
+
 
 # This work has been published in EMNLP 2024(Empirical Methods in Natural Language Processing) conference in industrial track
+
+ #This directory contains the Benchmark RARE Dataset and Code File as described in the paper:
 - RARE_Dataset: In this folder, we introduce RARE, a benchmark for App Review Refinement. This folder contains two subfolders named Gold_Corpus and Silver_Corpus.
 
 1. Gold_Corpus: In this folder, a corpus of 10,000 annotated reviews, collaboratively refined by software engineers and a large language model (LLM) sourced from 10 different application domains, is provided.
